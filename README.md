@@ -1,4 +1,4 @@
-# 🎡 Online Amusement Park Reservation System
+#  Online Amusement Park Reservation System
 
 This project is a Java-based software engineering system that allows users (parents, children, and admins) to interact with a virtual amusement park environment. The system includes ticket reservations, activity scheduling, child location tracking via RFID, feedback submission, and more — all through an interactive GUI.
 
@@ -23,7 +23,7 @@ The system was developed as part of our Software Engineering II course at the Br
 -  **Locate Children via RFID**  
   Track your child's real-time location using RFID wristbands.
 
-- 🗺 **Interactive Map**  
+-  **Interactive Map**  
   Explore the park and activity zones through a digital navigation system.
 
 -  **Payment Module**  
@@ -35,7 +35,7 @@ The system was developed as part of our Software Engineering II course at the Br
 -  **Admin Controls**  
   Admins can ban users, manage feedback, and ensure system safety.
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Java (Swing/AWT for GUI)
 - OOP Principles (Encapsulation, Inheritance, Polymorphism)
